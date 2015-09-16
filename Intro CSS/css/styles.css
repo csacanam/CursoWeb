@@ -1,0 +1,18 @@
+body {
+	background:#f1a635 url('../img/peewah.png') repeat-x;
+}
+
+h1 {
+	color:white;
+	font-size: 12px;
+}
+
+p {
+	background:#555555;
+	color:white;
+	font-size: 24px;
+}
+
+.wrapper {
+	background-color: black;
+}
